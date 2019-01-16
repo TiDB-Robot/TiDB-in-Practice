@@ -1,2 +1,2 @@
-# TiDB-in-Practice
+# TiDB in Practice
 A TiDB guide book
